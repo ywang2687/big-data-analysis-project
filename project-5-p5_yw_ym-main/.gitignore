@@ -1,0 +1,24 @@
+*.zip
+*.csv
+
+*__pycache__*
+
+nb/.ipynb_checkpoints
+nb/data
+nb/metastore_db
+nb/derby.log
+autograde.py
+tester.py
+test.json
+nbutils.py
+
+# more
+.Trash-*
+*/.ipynb_checkpoints/*
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
